@@ -3,10 +3,7 @@ he is cute.
 kslysn stays in bangalore.
 kalyan is working in valtech.
 kalyan is good boy 
-<<<<<<< HEAD
 neeraj is good .
-=======
 valtech is good company 
->>>>>>> 8105bc33b15c19bdc143e7910193dc3f79af3c50
 kalyan rhxklxzx
 kalyan is a good guy 
